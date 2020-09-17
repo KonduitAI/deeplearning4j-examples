@@ -134,7 +134,7 @@
         <dependency>
             <groupId>org.bytedeco</groupId>
             <artifactId>javacv-platform</artifactId>
-            <version>1.5.2</version>
+            <version>1.5.3</version>
         </dependency>
     </dependencies>
     <!-- Maven Enforcer: Ensures user has an up to date version of Maven before building -->
